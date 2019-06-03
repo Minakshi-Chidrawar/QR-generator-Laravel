@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    QR Code Generator
                 </div>
 
                 <div class="links">
